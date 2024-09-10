@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://vanofozn.github.io/sitemap/sitemap.txt
